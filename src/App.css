@@ -328,6 +328,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin: 0 auto;
   position: relative;
 }
+.skill-slider .item {
+  text-align: center;
+}
 .skill-slider .item img {
   width: 50%;
   margin: 0 auto 15px auto;
